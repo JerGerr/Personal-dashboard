@@ -1,2 +1,2 @@
-# Personal-dashboard
-2nd screen personal dashboard
+# kala
+Something Fishy Drupal Course Project
